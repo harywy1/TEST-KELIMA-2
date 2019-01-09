@@ -1,0 +1,14 @@
+.container {
+  width: 500px;
+  margin: 0px auto;
+  background: linear-gradient(to bottom, #cc3399 0%, #660033) ;
+  text-align: center;
+  font-size: 25px;
+}
+
+/* .list-group {
+  background-color: white;
+  text-align: left;
+  padding: 2px;
+  font-size: 20px;
+} */
